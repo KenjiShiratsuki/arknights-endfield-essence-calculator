@@ -1,0 +1,195 @@
+[
+    {
+        "name":"Eminent Repute",
+        "attribute":"Main",
+        "stat":"Physical DMG",
+        "skill":"Brutality"
+    },
+    {
+        "name":"Forgeborn Scathe",
+        "attribute":"Intellect",
+        "stat":"Attack",
+        "skill":"Twilight"
+    },
+    {
+        "name":"Glorious Memory",
+        "attribute":"Agility",
+        "stat":"Critical Rate",
+        "skill":"Twilight"
+    },
+    {
+        "name":"Grand Vision",
+        "attribute":"Agility",
+        "stat":"Attack",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Lupine Scarlet",
+        "attribute":"Agility",
+        "stat":"Critical Rate",
+        "skill":"Fracture"
+    },
+    {
+        "name":"Never Rest",
+        "attribute":"Will",
+        "stat":"Attack",
+        "skill":"Flow"
+    },
+    {
+        "name":"Rapid Ascent",
+        "attribute":"Main",
+        "stat":"Critical Rate",
+        "skill":"Twilight"
+    },
+    {
+        "name":"Thermite Cutter",
+        "attribute":"Will",
+        "stat":"Attack",
+        "skill":"Flow"
+    },
+    {
+        "name":"Umbral Torch",
+        "attribute":"Intellect",
+        "stat":"Heat DMG",
+        "skill":"Infliction"
+    },
+    {
+        "name":"White Night Nova",
+        "attribute":"Main",
+        "stat":"Arts Intensity",
+        "skill":"Infliction"
+    },
+    {
+        "name":"JET",
+        "attribute":"Main",
+        "stat":"Attack",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Mountain Bearer",
+        "attribute":"Agility",
+        "stat":"Physical DMG",
+        "skill":"Efficacy"
+    },
+    {
+        "name":"Valiant",
+        "attribute":"Agility",
+        "stat":"Physical DMG",
+        "skill":"Combative"
+    },
+    {
+        "name":"Artzy Tyrannical",
+        "attribute":"Intellect",
+        "stat":"Critical Rate",
+        "skill":"Fracture"
+    },
+    {
+        "name":"Brigand's Calling",
+        "attribute":"Agility",
+        "stat":"Attack",
+        "skill":"Detonate"
+    },
+    {
+        "name":"Clannibal",
+        "attribute":"Main",
+        "stat":"Arts Boost",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Home Longing",
+        "attribute":"Agility",
+        "stat":"Cryo DMG",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Navigator",
+        "attribute":"Intellect",
+        "stat":"Cryo DMG",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Wedge",
+        "attribute":"Main",
+        "stat":"Critical Rate",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Exemplar",
+        "attribute":"Main",
+        "stat":"Attack",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Former Finery",
+        "attribute":"Will",
+        "stat":"HP",
+        "skill":"Efficacy"
+    },
+    {
+        "name":"Khravengger",
+        "attribute":"Strength",
+        "stat":"Attack",
+        "skill":"Detonate"
+    },
+    {
+        "name":"Sundered Prince",
+        "attribute":"Strength",
+        "stat":"Critical Rate",
+        "skill":"Crusher"
+    },
+    {
+        "name":"Thunderberge",
+        "attribute":"Strength",
+        "stat":"HP",
+        "skill":"Medicant"
+    },
+    {
+        "name":"Chivalric Values",
+        "attribute":"Will",
+        "stat":"HP",
+        "skill":"Medicant"
+    },
+    {
+        "name":"Delivery Guaranteed",
+        "attribute":"Will",
+        "stat":"Ultimate Gain",
+        "skill":"Pursuit"
+    },
+    {
+        "name":"Detonation Unit",
+        "attribute":"Main",
+        "stat":"Arts Intensity",
+        "skill":"Detonate"
+    },
+    {
+        "name":"Dreams of the Starry Beach",
+        "attribute":"Intellect",
+        "stat":"Treatment Efficiency",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Flickers in the Mist",
+        "attribute":"Will",
+        "stat":"Electric DMG",
+        "skill":"Efficacy"
+    },
+    {
+        "name":"Lone Barge",
+        "attribute":"Will",
+        "stat":"Attack",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Oblivion",
+        "attribute":"Intellect",
+        "stat":"Arts Boost",
+        "skill":"Twilight"
+    },
+    {
+        "name":"Opus: Etch Figure",
+        "attribute":"Will",
+        "stat":"Nature DMG",
+        "skill":"Suppression"
+    }
+
+]
