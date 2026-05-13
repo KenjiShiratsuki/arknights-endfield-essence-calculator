@@ -190,6 +190,198 @@
         "attribute":"Will",
         "stat":"Nature DMG",
         "skill":"Suppression"
+    },
+    {
+        "name":"Aspirant",
+        "attribute":"Agility",
+        "stat":"Physical DMG",
+        "skill":"Twilight"
+    },
+    {
+        "name":"Finchaser 3.0",
+        "attribute":"Strength",
+        "stat":"Cryo DMG",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Fortmaker",
+        "attribute":"Intellect",
+        "stat":"Ultimate Gain",
+        "skill":"Inspiring"
+    },
+    {
+        "name":"OBJ Edge of Lightness",
+        "attribute":"Agility",
+        "stat":"Attack",
+        "skill":"Flow"
+    },
+    {
+        "name":"Sundering Steel",
+        "attribute":"Agility",
+        "stat":"Physical DMG",
+        "skill":"Combative"
+    },
+    {
+        "name":"Twelve Questions",
+        "attribute":"Agility",
+        "stat":"Attack",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Chimeric Justice",
+        "attribute":"Strength",
+        "stat":"Ultimate Gain",
+        "skill":"Brutality"
+    },
+    {
+        "name":"Cohesive Traction",
+        "attribute":"Will",
+        "stat":"Electric DMG",
+        "skill":"Suppression"
+    },
+    {
+        "name":"OBJ Razorhorn",
+        "attribute":"Will",
+        "stat":"Physical DMG",
+        "skill":"Infliction"
+    },
+    {
+        "name":"OBJ Velocitous",
+        "attribute":"Agility",
+        "stat":"Ultimate Gain",
+        "skill":"Detonate"
+    },
+    {
+        "name":"Opus: The Living",
+        "attribute":"Agility",
+        "stat":"Arts Boost",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Rational Farewell",
+        "attribute":"Strength",
+        "stat":"Heat DMG",
+        "skill":"Pursuit"
+    },
+    {
+        "name":"Ancient Canal",
+        "attribute":"Strength",
+        "stat":"Arts Intensity",
+        "skill":"Brutality"
+    },
+    {
+        "name":"Finishing Call",
+        "attribute":"Strength",
+        "stat":"HP",
+        "skill":"Medicant"
+    },
+    {
+        "name":"OBJ Heavy Burden",
+        "attribute":"Strength",
+        "stat":"HP",
+        "skill":"Efficacy"
+    },
+    {
+        "name":"Seeker of Dark Lung",
+        "attribute":"Strength",
+        "stat":"Ultimate Gain",
+        "skill":"Detonate"
+    },
+    {
+        "name":"Freedom to Proselytize",
+        "attribute":"Will",
+        "stat":"Treatment Efficiency",
+        "skill":"Medicant"
+    },
+    {
+        "name":
+        "attribute":
+        "stat":
+        "skill":
+    },
+    {
+        "name":"Monaihe",
+        "attribute":"Will",
+        "stat":"Ultimate Gain",
+        "skill":"Inspiring"
+    },
+    {
+        "name":"OBJ Arts Identifier",
+        "attribute":"Intellect",
+        "stat":"Arts Intensity",
+        "skill":"Pursuit"
+    },
+    {
+        "name":"Stanza of Memorials",
+        "attribute":"Intellect",
+        "stat":"Attack",
+        "skill":"Twilight"
+    },
+    {
+        "name":"Wild Wanderer",
+        "attribute":"Intellect",
+        "stat":"Electric DMG",
+        "skill":"Infliction"
+    },
+    {
+        "name":"Prominent Edge",
+        "attribute":"Agility",
+        "stat":"Physical DMG",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Wave Tide",
+        "attribute":"Intellect",
+        "stat":"Attack",
+        "skill":"Pursuit"
+    },
+    {
+        "name":"Aggeloslayer",
+        "attribute":"Will",
+        "stat":"Arts Boost",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Pathfinder's Beacon",
+        "attribute":"Agility",
+        "stat":"Attack",
+        "skill":"Inspiring"
+    },
+    {
+        "name":"Howling Guard",
+        "attribute":"Intellect",
+        "stat":"Attack",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Long Road",
+        "attribute":"Strength",
+        "stat":"Arts Boost",
+        "skill":"Pursuit"
+    },
+    {
+        "name":"Industry 0.1",
+        "attribute":"Strength",
+        "stat":"Attack",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Quencher",
+        "attribute":"Will",
+        "stat":"HP",
+        "skill":"Crusher"
+    },
+    {
+        "name":"Fluorescent Roc",
+        "attribute":"Will",
+        "stat":"Attack",
+        "skill":"Suppression"
+    },
+    {
+        "name":"Hypernova Auto",
+        "attribute":"Intellect",
+        "stat":"Arts Boost",
+        "skill":"Inspiring"
     }
 
 ]
