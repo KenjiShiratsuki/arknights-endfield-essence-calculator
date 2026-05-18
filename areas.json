@@ -1,0 +1,22 @@
+[
+    {
+        "area":"The Hub",
+        "stats":["Attack", "Heat DMG", "Electric DMG", "Cryo DMG", "Nature DMG", "Arts Intensity", "Ultimate Gain", "Arts DMG"],
+        "skills":["Assault", "Suppression", "Pursuit", "Crusher", "Combative", "Detonate", "Flow", "Efficacy"]
+    },
+    {
+        "area":"Originium Science Park",
+        "stats":["Attack", "Physical DMG", "Electric DMG", "Cryo DMG", "Nature DMG", "Critical Rate", "Ultimate Gain", "Arts DMG"],
+        "skills":["Suppression", "Pursuit", "Inspiring", "Combative", "Infliction", "Medicant", "Fracture", "Efficacy"]
+    },
+    {
+        "area":"Origin Lodespring",
+        "stats":["HP Boost", "Physical DMG", "Heat DMG", "Cryo DMG", "Nature DMG", "Critical Rate", "Arts Intensity", "Treatment Efficiency"],
+        "skills":["Assault", "Suppression", "Combative", "Brutality", "Infliction", "Detonate", "Twilight", "Efficacy"]
+    },
+    {
+        "area":"Power Plateau",
+        "stats":["Attack", "HP Boost", "Physical DMG", "Heat DMG", "Nature DMG", "Critical Rate", "Arts Intensity", "Treatment Efficiency"],
+        "skills":["Pursuit", "Crusher", "Inspiring", "Brutality", "Infliction", "Medicant", "Fracture", "Flow"]
+    }
+]

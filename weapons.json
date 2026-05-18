@@ -92,7 +92,7 @@
     {
         "name":"Clannibal",
         "attribute":"Main",
-        "stat":"Arts Boost",
+        "stat":"Arts DMG",
         "skill":"Infliction"
     },
     {
@@ -182,7 +182,7 @@
     {
         "name":"Oblivion",
         "attribute":"Intellect",
-        "stat":"Arts Boost",
+        "stat":"Arts DMG",
         "skill":"Twilight"
     },
     {
@@ -254,7 +254,7 @@
     {
         "name":"Opus: The Living",
         "attribute":"Agility",
-        "stat":"Arts Boost",
+        "stat":"Arts DMG",
         "skill":"Infliction"
     },
     {
@@ -292,12 +292,6 @@
         "attribute":"Will",
         "stat":"Treatment Efficiency",
         "skill":"Medicant"
-    },
-    {
-        "name":
-        "attribute":
-        "stat":
-        "skill":
     },
     {
         "name":"Monaihe",
@@ -338,7 +332,7 @@
     {
         "name":"Aggeloslayer",
         "attribute":"Will",
-        "stat":"Arts Boost",
+        "stat":"Arts DMG",
         "skill":"Suppression"
     },
     {
@@ -356,7 +350,7 @@
     {
         "name":"Long Road",
         "attribute":"Strength",
-        "stat":"Arts Boost",
+        "stat":"Arts DMG",
         "skill":"Pursuit"
     },
     {
@@ -380,7 +374,7 @@
     {
         "name":"Hypernova Auto",
         "attribute":"Intellect",
-        "stat":"Arts Boost",
+        "stat":"Arts DMG",
         "skill":"Inspiring"
     }
 
