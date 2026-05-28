@@ -597,7 +597,461 @@
                     "skill": "Inspiring"
                 }
             ]
+        },
+        "Wuling City": {
+            "Valid_Weapons": [
+                {
+                    "name": "Forgeborn Scathe",
+                    "attribute": "Intellect",
+                    "stat": "Attack",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Glorious Memory",
+                    "attribute": "Agility",
+                    "stat": "Critical Rate",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Lupine Scarlet",
+                    "attribute": "Agility",
+                    "stat": "Critical Rate",
+                    "skill": "Fracture"
+                },
+                {
+                    "name": "Never Rest",
+                    "attribute": "Will",
+                    "stat": "Attack",
+                    "skill": "Flow"
+                },
+                {
+                    "name": "Rapid Ascent",
+                    "attribute": "Main",
+                    "stat": "Critical Rate",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Thermite Cutter",
+                    "attribute": "Will",
+                    "stat": "Attack",
+                    "skill": "Flow"
+                },
+                {
+                    "name": "Artzy Tyrannical",
+                    "attribute": "Intellect",
+                    "stat": "Critical Rate",
+                    "skill": "Fracture"
+                },
+                {
+                    "name": "Brigand's Calling",
+                    "attribute": "Agility",
+                    "stat": "Attack",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Khravengger",
+                    "attribute": "Strength",
+                    "stat": "Attack",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Sundered Prince",
+                    "attribute": "Strength",
+                    "stat": "Critical Rate",
+                    "skill": "Crusher"
+                },
+                {
+                    "name": "Oblivion",
+                    "attribute": "Intellect",
+                    "stat": "Arts DMG",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "OBJ Edge of Lightness",
+                    "attribute": "Agility",
+                    "stat": "Attack",
+                    "skill": "Flow"
+                },
+                {
+                    "name": "Chimeric Justice",
+                    "attribute": "Strength",
+                    "stat": "Ultimate Gain",
+                    "skill": "Brutality"
+                },
+                {
+                    "name": "OBJ Velocitous",
+                    "attribute": "Agility",
+                    "stat": "Ultimate Gain",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Seeker of Dark Lung",
+                    "attribute": "Strength",
+                    "stat": "Ultimate Gain",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Freedom to Proselytize",
+                    "attribute": "Will",
+                    "stat": "Treatment Efficiency",
+                    "skill": "Medicant"
+                },
+                {
+                    "name": "Stanza of Memorials",
+                    "attribute": "Intellect",
+                    "stat": "Attack",
+                    "skill": "Twilight"
+                }
+            ]
+        },
+        "Qingbo Stockade": {
+            "Valid_Weapons": [
+                {
+                    "name": "Valiant",
+                    "attribute": "Agility",
+                    "stat": "Physical DMG",
+                    "skill": "Combative"
+                },
+                {
+                    "name": "Home Longing",
+                    "attribute": "Agility",
+                    "stat": "Cryo DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Detonation Unit",
+                    "attribute": "Main",
+                    "stat": "Arts Intensity",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Oblivion",
+                    "attribute": "Intellect",
+                    "stat": "Arts DMG",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Aspirant",
+                    "attribute": "Agility",
+                    "stat": "Physical DMG",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Finchaser 3.0",
+                    "attribute": "Strength",
+                    "stat": "Cryo DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Fortmaker",
+                    "attribute": "Intellect",
+                    "stat": "Ultimate Gain",
+                    "skill": "Inspiring"
+                },
+                {
+                    "name": "Sundering Steel",
+                    "attribute": "Agility",
+                    "stat": "Physical DMG",
+                    "skill": "Combative"
+                },
+                {
+                    "name": "Cohesive Traction",
+                    "attribute": "Will",
+                    "stat": "Electric DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "OBJ Velocitous",
+                    "attribute": "Agility",
+                    "stat": "Ultimate Gain",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Seeker of Dark Lung",
+                    "attribute": "Strength",
+                    "stat": "Ultimate Gain",
+                    "skill": "Detonate"
+                },
+                {
+                    "name": "Freedom to Proselytize",
+                    "attribute": "Will",
+                    "stat": "Treatment Efficiency",
+                    "skill": "Medicant"
+                },
+                {
+                    "name": "Monaihe",
+                    "attribute": "Will",
+                    "stat": "Ultimate Gain",
+                    "skill": "Inspiring"
+                },
+                {
+                    "name": "Prominent Edge",
+                    "attribute": "Agility",
+                    "stat": "Physical DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Aggeloslayer",
+                    "attribute": "Will",
+                    "stat": "Arts DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Hypernova Auto",
+                    "attribute": "Intellect",
+                    "stat": "Arts DMG",
+                    "skill": "Inspiring"
+                }
+            ]
+        },
+        "Marker Stone": {
+            "Valid_Weapons": [
+                {
+                    "name": "Eminent Repute",
+                    "attribute": "Main",
+                    "stat": "Physical DMG",
+                    "skill": "Brutality"
+                },
+                {
+                    "name": "Forgeborn Scathe",
+                    "attribute": "Intellect",
+                    "stat": "Attack",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Glorious Memory",
+                    "attribute": "Agility",
+                    "stat": "Critical Rate",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Grand Vision",
+                    "attribute": "Agility",
+                    "stat": "Attack",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Never Rest",
+                    "attribute": "Will",
+                    "stat": "Attack",
+                    "skill": "Flow"
+                },
+                {
+                    "name": "Rapid Ascent",
+                    "attribute": "Main",
+                    "stat": "Critical Rate",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Thermite Cutter",
+                    "attribute": "Will",
+                    "stat": "Attack",
+                    "skill": "Flow"
+                },
+                {
+                    "name": "Umbral Torch",
+                    "attribute": "Intellect",
+                    "stat": "Heat DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Mountain Bearer",
+                    "attribute": "Agility",
+                    "stat": "Physical DMG",
+                    "skill": "Efficacy"
+                },
+                {
+                    "name": "Clannibal",
+                    "attribute": "Main",
+                    "stat": "Arts DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Wedge",
+                    "attribute": "Main",
+                    "stat": "Critical Rate",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Delivery Guaranteed",
+                    "attribute": "Will",
+                    "stat": "Ultimate Gain",
+                    "skill": "Pursuit"
+                },
+                {
+                    "name": "Flickers in the Mist",
+                    "attribute": "Will",
+                    "stat": "Electric DMG",
+                    "skill": "Efficacy"
+                },
+                {
+                    "name": "Oblivion",
+                    "attribute": "Intellect",
+                    "stat": "Arts DMG",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Aspirant",
+                    "attribute": "Agility",
+                    "stat": "Physical DMG",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Fortmaker",
+                    "attribute": "Intellect",
+                    "stat": "Ultimate Gain",
+                    "skill": "Inspiring"
+                },
+                {
+                    "name": "OBJ Edge of Lightness",
+                    "attribute": "Agility",
+                    "stat": "Attack",
+                    "skill": "Flow"
+                },
+                {
+                    "name": "Twelve Questions",
+                    "attribute": "Agility",
+                    "stat": "Attack",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Chimeric Justice",
+                    "attribute": "Strength",
+                    "stat": "Ultimate Gain",
+                    "skill": "Brutality"
+                },
+                {
+                    "name": "OBJ Razorhorn",
+                    "attribute": "Will",
+                    "stat": "Physical DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Opus: The Living",
+                    "attribute": "Agility",
+                    "stat": "Arts DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Rational Farewell",
+                    "attribute": "Strength",
+                    "stat": "Heat DMG",
+                    "skill": "Pursuit"
+                },
+                {
+                    "name": "Monaihe",
+                    "attribute": "Will",
+                    "stat": "Ultimate Gain",
+                    "skill": "Inspiring"
+                },
+                {
+                    "name": "Stanza of Memorials",
+                    "attribute": "Intellect",
+                    "stat": "Attack",
+                    "skill": "Twilight"
+                },
+                {
+                    "name": "Wild Wanderer",
+                    "attribute": "Intellect",
+                    "stat": "Electric DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Wave Tide",
+                    "attribute": "Intellect",
+                    "stat": "Attack",
+                    "skill": "Pursuit"
+                },
+                {
+                    "name": "Pathfinder's Beacon",
+                    "attribute": "Agility",
+                    "stat": "Attack",
+                    "skill": "Inspiring"
+                },
+                {
+                    "name": "Long Road",
+                    "attribute": "Strength",
+                    "stat": "Arts DMG",
+                    "skill": "Pursuit"
+                },
+                {
+                    "name": "Hypernova Auto",
+                    "attribute": "Intellect",
+                    "stat": "Arts DMG",
+                    "skill": "Inspiring"
+                }
+            ]
+        },
+        "Test Area": {
+            "Valid_Weapons": [
+                {
+                    "name": "Umbral Torch",
+                    "attribute": "Intellect",
+                    "stat": "Heat DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "White Night Nova",
+                    "attribute": "Main",
+                    "stat": "Arts Intensity",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Home Longing",
+                    "attribute": "Agility",
+                    "stat": "Cryo DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Navigator",
+                    "attribute": "Intellect",
+                    "stat": "Cryo DMG",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Dreams of the Starry Beach",
+                    "attribute": "Intellect",
+                    "stat": "Treatment Efficiency",
+                    "skill": "Infliction"
+                },
+                {
+                    "name": "Opus: Etch Figure",
+                    "attribute": "Will",
+                    "stat": "Nature DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Finchaser 3.0",
+                    "attribute": "Strength",
+                    "stat": "Cryo DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Chimeric Justice",
+                    "attribute": "Strength",
+                    "stat": "Ultimate Gain",
+                    "skill": "Brutality"
+                },
+                {
+                    "name": "Cohesive Traction",
+                    "attribute": "Will",
+                    "stat": "Electric DMG",
+                    "skill": "Suppression"
+                },
+                {
+                    "name": "Ancient Canal",
+                    "attribute": "Strength",
+                    "stat": "Arts Intensity",
+                    "skill": "Brutality"
+                },
+                {
+                    "name": "Wild Wanderer",
+                    "attribute": "Intellect",
+                    "stat": "Electric DMG",
+                    "skill": "Infliction"
+                }
+            ]
         }
     },
-    "version": "1"
+    "version": "2"
 }

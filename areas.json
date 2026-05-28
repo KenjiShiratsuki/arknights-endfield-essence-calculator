@@ -1,5 +1,5 @@
 {   
-    "version": "1",
+    "version": "2",
     "data":[
         {
             "area":"The Hub",
@@ -20,6 +20,26 @@
             "area":"Power Plateau",
             "stats":["Attack", "HP Boost", "Physical DMG", "Heat DMG", "Nature DMG", "Critical Rate", "Arts Intensity", "Treatment Efficiency"],
             "skills":["Pursuit", "Crusher", "Inspiring", "Brutality", "Infliction", "Medicant", "Fracture", "Flow"]
+        },
+        {
+            "area":"Wuling City",
+            "stats":["Attack", "HP Boost", "Electric DMG", "Cryo DMG", "Critical Rate", "Ultimate Gain", "Arts DMG", "Treatment Efficiency"],
+            "skills":["Assault", "Crusher", "Brutality", "Medicant", "Fracture", "Detonate", "Twilight", "Flow"]
+        },
+        {
+            "area":"Qingbo Stockade",
+            "stats":["HP Boost", "Physical DMG", "Electric DMG", "Cryo DMG", "Arts Intensity", "Ultimate Gain", "Arts DMG", "Treatment Efficiency"],
+            "skills":["Suppression", "Crusher", "Inspiring", "Combative", "Medicant", "Fracture", "Detonate", "Twilight"]
+        },
+        {
+            "area":"Marker Stone",
+            "stats":["Attack", "Physical DMG", "Heat DMG", "Electric DMG", "Nature DMG", "Critical Rate", "Ultimate Gain", "Arts DMG"],
+            "skills":["Assault", "Pursuit", "Inspiring", "Brutality", "Infliction", "Twilight", "Flow", "Efficacy"]
+        },
+        {
+            "area":"Test Area",
+            "stats":["HP Boost", "Heat DMG", "Electric DMG", "Cryo DMG", "Nature DMG", "Arts Intensity", "Ultimate Gain", "Treatment Efficiency"],
+            "skills":["Suppression", "Crusher", "Combative", "Brutality", "Infliction", "Fracture", "Twilight", "Flow"]
         }
     ]
 }
