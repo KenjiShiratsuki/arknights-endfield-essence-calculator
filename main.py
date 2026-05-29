@@ -43,30 +43,39 @@ def find_optimal_settings(matches, target_weapons):
                     case_key = f"{area} | {combo} | {lock_type.upper()}: {lock_name}"
                     
                     for weapon in target_weapons:
-                        if weapon.get('attribute') in combo and weapon.get(lock_type) == lock_name:
-                            count += 1
-                            matching_weapon_list.append(weapon['name'])
+                        if weapon in area_weapons:
+                            if weapon.get('attribute') in combo and weapon.get(lock_type) == lock_name:
+                                count += 1
+                                matching_weapon_list.append(weapon['name'])
                     
                     if count > 0:
                         all_cases[case_key] = {
                             'count': count, 
                             'matching_weapons': matching_weapon_list
                         }
-    return sorted(all_cases, key=lambda k: all_cases[k]['count'], reverse=True), all_cases
+    return all_cases
 
-def format_solution(sorted_solutions, all_cases, target_weapons):
+def format_solution(all_cases, target_weapons):
     remaining_names = [w['name'] for w in target_weapons]
     output_string = "Endministrator, here are the results. For optimal essence farming, go to the following areas with the given settings to get the listed weapon's essences."
-    for case_key in sorted_solutions:
-        if not remaining_names:
+    while remaining_names:
+        best_case_key = None
+        best_weapon_list = []
+        max_count = 0
+        for case_key, case_data in all_cases.items():
+            current_matches = [w for w in case_data['matching_weapons'] if w in remaining_names]
+            current_count = len(current_matches)
+            if current_count > max_count:
+                max_count = current_count
+                best_case_key = case_key
+                best_weapon_list = current_matches
+        if not best_case_key:
             break
-        case_data = all_cases[case_key]
-        weapon_list = [w for w in case_data['matching_weapons'] if w in remaining_names]
-
-        if weapon_list:
-            output_string += f"\n{case_key} | for -> {', '.join(weapon_list)}"
-            remaining_names = [w for w in remaining_names if w not in weapon_list]
+        output_string += f"\n{best_case_key} | for -> {', '.join(best_weapon_list)}"
+        for w in best_weapon_list:
+            remaining_names.remove(w)
     return output_string
+
 
 def main():
     if not os.path.exists("weapons.json") or not os.path.exists("areas.json"):
@@ -86,6 +95,6 @@ def main():
         generate_matches()
     print(format_weapons(weapons['data']))
     target_weapons = translate_user_weapon_input(input(f"Please input which weapon numbers you want to focus on, separated by commas.\nEX: '1, 5, 32' will request focus on {weapons['data'][0]['name']}, {weapons['data'][4]['name']}, and {weapons['data'][31]['name']}: "), weapons)
-    solutions_by_score, all_cases = find_optimal_settings(matches, target_weapons)
-    print(format_solution(solutions_by_score, all_cases, target_weapons))
+    all_cases = find_optimal_settings(matches, target_weapons)
+    print(format_solution(all_cases, target_weapons))
 main()
